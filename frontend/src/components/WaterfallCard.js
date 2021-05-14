@@ -17,10 +17,8 @@ const WaterfallCard = props => {
         <div className="content">
           <div className="header">
             {props.waterfall.name}
-            {/* <i className={botTypeClasses[props.bot.bot_class]} /> */}
           </div>
           <div className="meta text-wrap">
-            {/* <small>{props.bot.catchphrase}</small> */}
           </div>
         </div>
         
