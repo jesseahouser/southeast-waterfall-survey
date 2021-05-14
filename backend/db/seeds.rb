@@ -99,6 +99,38 @@ Waterfall.create(
       photo: "https://cdn1.matadornetwork.com/blogs/1/2021/04/Elakala-Falls-Blackwater-Falls-State-Park.jpg"
     },
     {
+      name: "Burgess Falls",
+      location: "",
+      state: "",
+      county: "",
+      height: 10,
+      photo: "https://media-cdn.tripadvisor.com/media/photo-s/07/cd/39/bc/photo0jpg.jpg"
+    },
+    {
+      name: "High Falls",
+      location: "",
+      state: "",
+      county: "",
+      height: 10,
+      photo: "https://upload.travelawaits.com/ta/uploads/2021/04/8f7a5fd364413b244be0f5e924b318f7a5f-800x800.jpg"
+    },
+    {
+      name: "Greeter Falls",
+      location: "",
+      state: "WV",
+      county: "",
+      height: 10,
+      photo: "https://upload.travelawaits.com/ta/uploads/2021/04/greeter-falls-in-south-cumberc2f437-1024x682.jpg"
+    },
+    {
+      name: "Cummins Falls",
+      location: "",
+      state: "WV",
+      county: "",
+      height: 10,
+      photo: "https://upload.travelawaits.com/ta/uploads/2021/04/cummins-falls-in-cookeville3c6285-1024x683.jpg"
+    },
+    {
       name: "Upper Whitewater Falls",
       location: "35.036125, -83.017885",
       state: "NC",
